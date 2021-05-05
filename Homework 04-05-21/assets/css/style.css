@@ -1,0 +1,106 @@
+body{
+    font-family: 'Inter', sans-serif;
+}
+.headerul{
+    display: inline-flex;
+}
+.listitem{
+     margin:20px;
+     text-decoration: none;
+
+}
+.nav{
+
+    text-align: center;
+    position: fixed;
+    float: left;
+    top: 35px;
+    left:600px;
+}
+.remoteimg{
+
+    margin-top: 35px;
+    margin-left: 45px;
+    width: 30px;
+    height: 30px;
+}
+.remotetext{
+    
+    font-size:35px;
+    vertical-align: super;
+     
+}
+.maincontent{
+
+   margin: 100px 250px;
+
+}
+h1{
+
+    font-size: 70px;
+    
+}
+.pstyle{
+    font-size: 18px;
+}
+#radio{
+     margin-left: 100px;
+     height: 25px;
+     width: 25px;
+}
+.radiotext{
+vertical-align:super;
+font-size:18px ;
+
+}
+.getstartedtoday{
+    margin-left: 100px;
+    border: 2px solid blueviolet;
+    fill: blueviolet;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding:15px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+
+  }
+  .tds{
+
+    text-align: center;
+  }
+  h2{
+     margin-top: 200px;
+     text-align: center;
+     font-size: 45px;
+  }
+  .p2{
+
+    font-size: 20px;
+    text-align: center;
+  }
+  h3{
+
+    font-size: 50px;
+  }
+  .buildyourteam{
+
+    text-align: center;
+    background-color: royalblue;
+    margin-top: 300px;
+    height: 300px;
+    padding-top: 150px;
+  }
+  .footerlist{
+      margin-left: 600px;
+  }
+.listitem2{
+
+    margin-left: 900px;
+    margin-bottom:5px;
+    
+    
+}
+ 
